@@ -1,4 +1,4 @@
-# QC
+# Quantum Computing 
 This is a file demonstrating some of my quantum computing projects
 In classical probability, outcomes follow straightforward rules. However, quantum probabilities exhibit wave-like behaviors, where interference patterns influence the likelihood of certain events.
 
